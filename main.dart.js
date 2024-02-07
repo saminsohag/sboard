@@ -84034,16 +84034,16 @@ s=this.d?new A.aiR():p
 r=$.bf()
 q=t.i
 q=A.Ao(!1,!1,s,o,A.cC([r.x.b],q),!1,B.Hr,q)
-o=r.b
+o=B.b.a2(r.b,2)
 s=t.wF
-return new A.b6(B.ca,new A.Ti(B.ac8,5,5,A.a([new A.dO(B.GC,q,p),new A.dO(B.GD,A.Ao(!1,!1,new A.aiS(),A.a([B.Hq,B.Hh,B.Hg,B.Hn,B.Hm,B.Hf,B.Hl,B.Hj,new A.bQ(B.dX,A.eV(p,B.N7,B.ac,!1,p,p,p,p,p,p,p,new A.aiT(a),p,p,p,p,p,p,p,p,p,p,p,p),p,"Eraser\nThickness: "+A.l(o)+"\nLong press to change thickness.",!0,t.d),B.Hp,B.Hi],t.sC),A.cC([r.w],s),!1,B.mr,s),p),new A.dO(B.GE,new A.dU(new A.aiU(),p,$.bT(),p),p)],t.p),p),p)}}
+return new A.b6(B.ca,new A.Ti(B.ac8,5,5,A.a([new A.dO(B.GC,q,p),new A.dO(B.GD,A.Ao(!1,!1,new A.aiS(),A.a([B.Hq,B.Hh,B.Hg,B.Hn,B.Hm,B.Hf,B.Hl,B.Hj,new A.bQ(B.dX,A.eV(p,B.N7,B.ac,!1,p,p,p,p,p,p,p,new A.aiT(a),p,p,p,p,p,p,p,p,p,p,p,p),p,"Eraser\nThickness: "+o+"\nLong press to change thickness.",!0,t.d),B.Hp,B.Hi],t.sC),A.cC([r.w],s),!1,B.mr,s),p),new A.dO(B.GE,new A.dU(new A.aiU(),p,$.bT(),p),p)],t.p),p),p)}}
 A.aiQ.prototype={
-$2(a,b){var s,r,q=null,p=this.b
-if($.bf().x.b===b){if(this.a.d)s=A.L(p).ax.b
-else{s=A.L(p).ax
+$2(a,b){var s,r,q=null,p=B.b.a2(b,2),o=this.b
+if($.bf().x.b===b){if(this.a.d)s=A.L(o).ax.b
+else{s=A.L(o).ax
 r=s.dx
 s=r==null?s.cy:r}s=new A.eC(new A.bs(s,1.5,B.U,-1))}else s=q
-return new A.ba(a,new A.bQ(b,A.eV(q,A.cv(A.ij(B.a2,!0,q,A.Gg(A.a7N(B.og,q,B.b.bT(0.9230769230769231*(b-0.5)+5,5,23)),q,q),B.r,B.D,0,q,q,s,q,q,B.cr),25,25),B.ac,!1,q,q,q,q,q,q,q,new A.aiP(p,a),q,q,q,q,q,q,q,q,q,q,q,q),q,"Thickness: "+A.l(b)+"\nLong press to change thickness.",!0,t.dl),t.xA)},
+return new A.ba(a,new A.bQ(b,A.eV(q,A.cv(A.ij(B.a2,!0,q,A.Gg(A.a7N(B.og,q,B.b.bT(0.9230769230769231*(b-0.5)+5,5,23)),q,q),B.r,B.D,0,q,q,s,q,q,B.cr),25,25),B.ac,!1,q,q,q,q,q,q,q,new A.aiP(o,a),q,q,q,q,q,q,q,q,q,q,q,q),q,"Thickness: "+p+"\nLong press to change thickness.",!0,t.dl),t.xA)},
 $S:504}
 A.aiP.prototype={
 $0(){A.fD(null,!0,new A.aiM(A.eY($.bf().a,!0,t.i),this.b),this.a,t.z)},
